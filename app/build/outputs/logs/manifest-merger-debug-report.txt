@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/1c4088d092c26d7e7cae726360e54b96/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/phromissee/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/133a955eb977679eae8b078aa20ac3d7/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/6573dfa12288668ac57bcacab5829771/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/8fb837a46d4dd666f8ecc17e0c975698/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/f699f1a48eb051fb2bd92f45f8d454e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/22655bd5f9e3b9096c6b8dfe26ce887d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/f19215047a336f8a9caf1143ea1e8070/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/986477fd22a5275f78788625caba4e8a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/11bedee57439cd270016154bf43c2a31/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/875fe212249f97abc551a877b59a7ad3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/43e7ce7dbdd2fecf017819900284bbab/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3f7044b51ea0785607f075c393c8a309/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml
+		INJECTED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml
+		ADDED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml
+		ADDED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml:5:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/phromissee/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/133a955eb977679eae8b078aa20ac3d7/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/phromissee/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/133a955eb977679eae8b078aa20ac3d7/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.smartnote.MainActivity
+ADDED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.phromise.profileview.SplashActivity
+ADDED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml:20:19-81
+uses-sdk
+INJECTED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml
+INJECTED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/1c4088d092c26d7e7cae726360e54b96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/1c4088d092c26d7e7cae726360e54b96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/phromissee/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/133a955eb977679eae8b078aa20ac3d7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/phromissee/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/133a955eb977679eae8b078aa20ac3d7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/6573dfa12288668ac57bcacab5829771/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/6573dfa12288668ac57bcacab5829771/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/8fb837a46d4dd666f8ecc17e0c975698/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/8fb837a46d4dd666f8ecc17e0c975698/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/f699f1a48eb051fb2bd92f45f8d454e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/f699f1a48eb051fb2bd92f45f8d454e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/22655bd5f9e3b9096c6b8dfe26ce887d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/22655bd5f9e3b9096c6b8dfe26ce887d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/f19215047a336f8a9caf1143ea1e8070/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/f19215047a336f8a9caf1143ea1e8070/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/986477fd22a5275f78788625caba4e8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/986477fd22a5275f78788625caba4e8a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/11bedee57439cd270016154bf43c2a31/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/11bedee57439cd270016154bf43c2a31/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/875fe212249f97abc551a877b59a7ad3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/875fe212249f97abc551a877b59a7ad3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/43e7ce7dbdd2fecf017819900284bbab/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/43e7ce7dbdd2fecf017819900284bbab/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3f7044b51ea0785607f075c393c8a309/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/phromissee/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3f7044b51ea0785607f075c393c8a309/AndroidManifest.xml:20:5-44
+INJECTED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml
+INJECTED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml
+		ADDED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml
+		INJECTED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml
+		ADDED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml
+		INJECTED from /home/phromissee/AndroidStudioProjects/SmartNote/app/src/main/AndroidManifest.xml
