@@ -17,13 +17,61 @@
             </intent-filter>
         </activity>
 
-        <activity android:name="com.example.phromise.profileview.SplashActivity">
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/SplashTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity
+            android:name=".ChmOneOne"
+            android:label="@string/chm101">
+        </activity>
+
+        <activity
+            android:name=".ChmOneTwo"
+            android:label="@string/chm102">
+        </activity>
+
+        <activity
+            android:name=".PhyOneOne"
+            android:label="@string/phy101">
+        </activity>
+
+        <activity
+            android:name=".PhyOneTwo"
+            android:label="@string/phy102">
+        </activity>
+
+        <activity
+            android:name=".MthOneOne"
+            android:label="@string/mth101">
+        </activity>
+
+        <activity
+            android:name=".MthOneTwo"
+            android:label="@string/mth102">
+        </activity>
+
+        <activity
+            android:name=".MthTwoOne"
+            android:label="@string/mth201">
+        </activity>
+
+        <activity
+            android:name=".MthTwoTwo"
+            android:label="@string/mth202">
+        </activity>
+
+        <activity
+            android:name=".CscTwo"
+            android:label="@string/csc201">
+        </activity>
+
     </application>
 
 </manifest>

@@ -15,4 +15,29 @@
         <item name="android:textStyle">bold</item>
     </style>
 
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@color/splashBackground</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">false</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="coursesListStyle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/salmon</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_height">60dp</item>
+    </style>
+
 </resources>

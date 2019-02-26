@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">OAU Smart Note</string>
+    <string name="title_activity_splash_screenbackground">splash_screenbackground</string>
+    <string name="chm101">CHM101</string>
+    <string name="chm102">CHM102</string>
+    <string name="phy101">PHY101</string>
+    <string name="phy102">PHY102</string>
+    <string name="mth101">MTH101</string>
+    <string name="mth102">MTH102</string>
+    <string name="mth201">MTH201</string>
+    <string name="mth202">MTH202</string>
+    <string name="csc201">CSC201</string>
 </resources>

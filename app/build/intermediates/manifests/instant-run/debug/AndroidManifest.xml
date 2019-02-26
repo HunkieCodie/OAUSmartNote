@@ -24,12 +24,50 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.phromise.profileview.SplashActivity" >
+        <activity
+            android:name="com.example.android.smartnote.SplashActivity"
+            android:theme="@style/SplashTheme" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.android.smartnote.ChmOneOne"
+            android:label="@string/chm101" >
+        </activity>
+        <activity
+            android:name="com.example.android.smartnote.ChmOneTwo"
+            android:label="@string/chm102" >
+        </activity>
+        <activity
+            android:name="com.example.android.smartnote.PhyOneOne"
+            android:label="@string/phy101" >
+        </activity>
+        <activity
+            android:name="com.example.android.smartnote.PhyOneTwo"
+            android:label="@string/phy102" >
+        </activity>
+        <activity
+            android:name="com.example.android.smartnote.MthOneOne"
+            android:label="@string/mth101" >
+        </activity>
+        <activity
+            android:name="com.example.android.smartnote.MthOneTwo"
+            android:label="@string/mth102" >
+        </activity>
+        <activity
+            android:name="com.example.android.smartnote.MthTwoOne"
+            android:label="@string/mth201" >
+        </activity>
+        <activity
+            android:name="com.example.android.smartnote.MthTwoTwo"
+            android:label="@string/mth202" >
+        </activity>
+        <activity
+            android:name="com.example.android.smartnote.CscTwo"
+            android:label="@string/csc201" >
         </activity>
 
         <provider
