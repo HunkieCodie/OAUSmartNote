@@ -34,39 +34,39 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.android.smartnote.ChmOneOne"
+            android:name="com.example.android.smartnote.Notes.ChmOneOne"
             android:label="@string/chm101" >
         </activity>
         <activity
-            android:name="com.example.android.smartnote.ChmOneTwo"
+            android:name="com.example.android.smartnote.Notes.ChmOneTwo"
             android:label="@string/chm102" >
         </activity>
         <activity
-            android:name="com.example.android.smartnote.PhyOneOne"
+            android:name="com.example.android.smartnote.Notes.PhyOneOne"
             android:label="@string/phy101" >
         </activity>
         <activity
-            android:name="com.example.android.smartnote.PhyOneTwo"
+            android:name="com.example.android.smartnote.Notes.PhyOneTwo"
             android:label="@string/phy102" >
         </activity>
         <activity
-            android:name="com.example.android.smartnote.MthOneOne"
+            android:name="com.example.android.smartnote.Notes.MthOneOne"
             android:label="@string/mth101" >
         </activity>
         <activity
-            android:name="com.example.android.smartnote.MthOneTwo"
+            android:name="com.example.android.smartnote.Notes.MthOneTwo"
             android:label="@string/mth102" >
         </activity>
         <activity
-            android:name="com.example.android.smartnote.MthTwoOne"
+            android:name="com.example.android.smartnote.Notes.MthTwoOne"
             android:label="@string/mth201" >
         </activity>
         <activity
-            android:name="com.example.android.smartnote.MthTwoTwo"
+            android:name="com.example.android.smartnote.Notes.MthTwoTwo"
             android:label="@string/mth202" >
         </activity>
         <activity
-            android:name="com.example.android.smartnote.CscTwo"
+            android:name="com.example.android.smartnote.Notes.CscTwo"
             android:label="@string/csc201" >
         </activity>
 

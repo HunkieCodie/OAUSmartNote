@@ -1,4 +1,4 @@
-#Tue Feb 26 05:15:17 WAT 2019
-base.0=/home/phromissee/AndroidStudioProjects/SmartNote/app/build/intermediates/transforms/dexMerger/debug/26
+#Thu Feb 28 07:38:27 WAT 2019
+base.0=/Users/clintonoyelami/AndroidStudioProjects/OAUSmartNote/app/build/intermediates/transforms/dexMerger/debug/7
 path.0=classes.dex
 renamed.0=classes.dex
