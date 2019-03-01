@@ -6,6 +6,16 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
+import com.example.android.smartnote.Notes.ChmOneOne;
+import com.example.android.smartnote.Notes.ChmOneTwo;
+import com.example.android.smartnote.Notes.CscTwo;
+import com.example.android.smartnote.Notes.MthOneOne;
+import com.example.android.smartnote.Notes.MthOneTwo;
+import com.example.android.smartnote.Notes.MthTwoOne;
+import com.example.android.smartnote.Notes.MthTwoTwo;
+import com.example.android.smartnote.Notes.PhyOneOne;
+import com.example.android.smartnote.Notes.PhyOneTwo;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
